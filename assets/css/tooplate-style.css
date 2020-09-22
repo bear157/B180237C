@@ -151,14 +151,14 @@ html {
 }
 
 .menu .image img {
-    width: 160px;
-    height: 160px;
+    width: 140px;
+    height: 140px;
     border-radius: 10%;
     text-align: center;
 }
 
 .menu .author-content {
-    margin: 20px 0px 40px 0px;
+    margin: 20px 0px;
 }
 
 .menu .author-content h5 {
@@ -702,7 +702,7 @@ section.contact-me {
     }
 
     .menu .image {
-        margin-top: 60px;
+        margin-top: 30px;
     }
 }
 
